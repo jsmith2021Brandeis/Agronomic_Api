@@ -1,0 +1,11 @@
+Flask
+Flask-SQLAlchemy
+Flask-migrate
+Flask-httpauth
+flask-cors
+mysql-connector
+mysqlclient
+marshmallow
+marshmallow-sqlalchemy
+pylint
+python-dotenv

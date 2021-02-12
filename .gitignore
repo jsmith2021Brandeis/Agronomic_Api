@@ -1,0 +1,9 @@
+.vscode
+.idea
+__pycache__
+.pylintrc
+Pipfile.lock
+migrations
+.env
+/data
+/migrations
