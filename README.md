@@ -25,7 +25,7 @@ This repository contains the minimum necessary code to create a web server, upda
 
 1. Go to http://localhost:5000/roles to see the created roles
 
-	![Created Roles](images/Created Roles.PNG)
+	![Created Roles](images/Created_Roles.PNG)
 	
 	## Other Operations
 	
@@ -53,6 +53,5 @@ This repository contains the minimum necessary code to create a web server, upda
 	
 	​		contains welcome page, error page, and get user roles pages (all and by role id)		
 
+Jacob Smith for AgroFides, Winter 2021
 
-## Links / Reference
-* http://www.fao.org/waicent/faostat/agricult/pr_ele-e.htm
