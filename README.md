@@ -25,7 +25,7 @@ This repository contains the minimum necessary code to create a web server, upda
 
 1. Go to http://localhost:5000/roles to see the created roles
 
-	![Created Roles](images/Created Roles.PNG)
+	![Created Roles](images\Created Roles.PNG)
 	
 	## Other Operations
 	
